@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mocha": "^10.3.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
